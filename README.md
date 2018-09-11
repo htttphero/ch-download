@@ -28,3 +28,6 @@ coursehunters -u course-url [-d dirname] [-l lessons] [-e email] [-p password]
 
 * [alekseylovchikov](https://github.com/alekseylovchikov)
 * [SergeiKaptelin](https://github.com/SergeiKaptelin)
+
+
+node index -u URL
